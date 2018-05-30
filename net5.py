@@ -3,7 +3,6 @@ from six.moves import cPickle as pickle
 from filter_operators import *
 import os
 from variable_control import *
-# number 1 to 10 data
 
 
 def compute_accuracy(v_xs, v_ys):

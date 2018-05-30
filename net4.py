@@ -2,7 +2,6 @@ import tensorflow as tf
 from six.moves import cPickle as pickle
 from filter_operators import *
 import os
-# number 1 to 10 data
 
 
 def compute_accuracy(v_xs, v_ys):
